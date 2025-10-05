@@ -40,6 +40,6 @@ Developed as part of the **Evaao Internship Assignment**.
 ### 🔧 Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/evaao.git
+   git clone https://github.com/shreyashgonge2411/evaao.git
    cd evaao
    
